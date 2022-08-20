@@ -31,8 +31,8 @@
 
 - - - -
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajjain311&show_icons=true&locale=en&layout=compact" alt="neerajjain311" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neerajjain311&show_icons=true&locale=en&layout=compact" alt="neerajjain311" /></p>
 
 - - - -
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajjain311&show_icons=true&locale=en" alt="neerajjain311" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajjain311&show_icons=true&locale=en" alt="neerajjain311" /></p>
