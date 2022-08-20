@@ -1,6 +1,6 @@
 ![](https://github.com/Neerajjain311/Neerajjain311/blob/main/Banner.png)
-<h1 align="center">Hey There, I'm Neeraj :coffee:</h1>
-<h3 align="center">A Software Engineer out for hunting bugs!</h3>
+<h1 align="center">Hola, I'm Neeraj Jain :coffee:</h1>
+<h3 align="center">I like implementing coffee, and drinking coffee (maybe in reverse order)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neerajjain311&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjain311" /> </p>
 
