@@ -5,16 +5,16 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neerajjain311&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjain311" /> </p>
 
 <p align="center">
-I’m currently learning **FastAPI and Apache Spark**  🌱 
+I’m currently learning <strong>FastAPI and Apache Spark</strong> 🌱 
 </p>
 <p align="center">
-Get to know me better at [https://neerajjain311.github.io/Portfolio-Website](https://neerajjain311.github.io/Portfolio-Website)  💻 
+Get to know me better at https://neerajjain311.github.io/Portfolio-Website  💻 
 </p>
 <p align="center">
-Feel free to ask me about **Apache Airflow, Angular, and Hadoop (Big Data)** 💬 
+Feel free to ask me about <strong>Apache Airflow, Angular, and Hadoop (Big Data)</strong> 💬 
 </p>
 <p align="center">
-Write to me at **neerajjain311@gmail.com** 📫 
+Write to me at <strong>neerajjain311@gmail.com</strong> 📫 
 </p>
 
 - - - -
