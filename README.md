@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjain311" alt="neerajjain311" /></a> </p>
 
-- 🌱 I’m currently learning **FastAPI and Spark**
+🌱 I’m currently learning **FastAPI and Apache Spark**
 
-- 👨‍💻 All of my projects are available at [https://neerajjain311.github.io/Portfolio-Website](https://neerajjain311.github.io/Portfolio-Website)
+👨‍💻 Get to know me better at [https://neerajjain311.github.io/Portfolio-Website](https://neerajjain311.github.io/Portfolio-Website)
 
-- 💬 Ask me about **Apache Airflow, Angular, and Hadoop (Big Data)**
+💬 Ask me about **Apache Airflow, Angular, and Hadoop (Big Data)**
 
-- 📫 How to reach me **neerajjain311@gmail.com**
+📫 How to reach me **neerajjain311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
