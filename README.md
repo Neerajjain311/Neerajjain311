@@ -1,4 +1,5 @@
-<h1 align="center">Hey There 👋, I'm Neeraj Jain</h1>
+![](https://github.com/Neerajjain311/Neerajjain311/blob/main/Banner.png)
+<h1 align="center">Hey There, I'm Neeraj Jain</h1>
 <h3 align="center">A Software Engineer out for hunting bugs!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neerajjain311&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjain311" /> </p>
