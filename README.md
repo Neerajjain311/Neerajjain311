@@ -5,17 +5,18 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neerajjain311&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjain311" /> </p>
 
 <p align="center">
-🌱 I’m currently learning **FastAPI and Apache Spark**   
+I’m currently learning **FastAPI and Apache Spark**  🌱 
 </p>
 <p align="center">
-👨‍💻 Get to know me better at [https://neerajjain311.github.io/Portfolio-Website](https://neerajjain311.github.io/Portfolio-Website)   
+Get to know me better at [https://neerajjain311.github.io/Portfolio-Website](https://neerajjain311.github.io/Portfolio-Website)  💻 
 </p>
 <p align="center">
-💬 Ask me about **Apache Airflow, Angular, and Hadoop (Big Data)**   
+Feel free to ask me about **Apache Airflow, Angular, and Hadoop (Big Data)** 💬 
 </p>
 <p align="center">
-📫 How to reach me **neerajjain311@gmail.com**   
+Write to me at **neerajjain311@gmail.com** 📫 
 </p>
+
 - - - -
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neerajjain311" alt="neerajjain311" /></a> </p>
