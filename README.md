@@ -6,11 +6,8 @@
 
 <p align="center">
 🌱 I’m currently learning **FastAPI and Apache Spark**
-
 👨‍💻 Get to know me better at [https://neerajjain311.github.io/Portfolio-Website](https://neerajjain311.github.io/Portfolio-Website)
-
 💬 Ask me about **Apache Airflow, Angular, and Hadoop (Big Data)**
-
 📫 How to reach me **neerajjain311@gmail.com**
 </p>
 
