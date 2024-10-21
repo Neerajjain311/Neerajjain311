@@ -33,7 +33,7 @@ Write to me at <strong>neerajjain311@gmail.com</strong> 📫
 
 <h3 align="center">Languages and Tools I'm Exposed To</h3>
 <p align="center"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp; <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
@@ -48,4 +48,6 @@ Write to me at <strong>neerajjain311@gmail.com</strong> 📫
 
 - - - -
 
+<--
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neerajjain311&show_icons=true&locale=en" alt="neerajjain311" /></p>
+-->
