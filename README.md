@@ -1,17 +1,17 @@
 ![](https://github.com/Neerajjain311/Neerajjain311/blob/main/Banner.png)
 <h1 align="center">Hola, I'm Neeraj Jain :coffee:</h1>
-<h3 align="center">Software Engineer | Data Lover | Corporate Trainer</h3>
+<h3 align="center">Senior Software Engineer | Corporate Trainer | Tech Lover </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=neerajjain311&label=Profile%20views&color=0e75b6&style=flat" alt="neerajjain311" /> </p>
 
 <p align="center">
-I’m currently learning <strong>FastAPI and Apache Spark</strong> 🌱 
+I’m currently learning about <strong>GenAI Concepts, Golang and Time Series Analysis</strong> 🌱 
 </p>
 <p align="center">
 Get to know me better at https://neerajjain311.github.io/Portfolio-Website  💻 
 </p>
 <p align="center">
-Feel free to ask me about <strong>Apache Airflow, Angular, and Hadoop (Big Data)</strong> 💬 
+Feel free to ask me about <strong>Apache Airflow, Data Platforms, Angular, and Hadoop (Big Data)</strong> 💬 
 </p>
 <p align="center">
 Write to me at <strong>neerajjain311@gmail.com</strong> 📫 
